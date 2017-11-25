@@ -1,7 +1,7 @@
 // TODO: Do this the right way, move to process.env?
 
 export const server = {
-  port: 5000
+  port: 4500
 };
 
 export const db = {
