@@ -5,7 +5,7 @@ https://github.com/brenteickhoff/hacker-u-server
 
 Credits:
 
-APP SPEC
+PROBLEM DEFINITION
 Coding Challenge - class-tracker-api
 Justin Kang 
 https://gist.github.com/J6K/12e01708085b31e0fde12b67d5206e6f
